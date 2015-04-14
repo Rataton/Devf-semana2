@@ -1,3 +1,4 @@
+
 class Hacer(object):
 	def __init__(self):
 		print 'Mi tarea'
